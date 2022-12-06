@@ -1,0 +1,15 @@
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\bin\Debug\net6.0\Потоки.exe
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\bin\Debug\net6.0\Потоки.deps.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\bin\Debug\net6.0\Потоки.runtimeconfig.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\bin\Debug\net6.0\Потоки.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\bin\Debug\net6.0\Потоки.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.csproj.AssemblyReference.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.AssemblyInfoInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.AssemblyInfo.cs
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.csproj.CoreCompileInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\refint\Потоки.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.genruntimeconfig.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\ref\Потоки.dll
