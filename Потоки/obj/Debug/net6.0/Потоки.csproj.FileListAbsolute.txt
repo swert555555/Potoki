@@ -13,3 +13,5 @@ C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\D
 C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.pdb
 C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.genruntimeconfig.cache
 C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\ref\Потоки.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\Потоки\obj\Debug\net6.0\Потоки.csproj.CopyComplete

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Wj1xZCQCIW6dcsTFIXPuf/o74T0TogLAl9KmoT+BspfiHDQCpM+tGupBGyJ53OoyqXifAraMGJ2jvQz/qivBXQ==",
+  "dgSpecHash": "rv5tlxrvTDR6fwqv5Ew8mSRI1jaDDjNVLBFVKjNNiiT8LLgvPuvo/Sz0kHTUu6GTyL9aVeQHFmy6PbeOwo6dWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kotam\\OneDrive\\Рабочий стол\\учеба\\C#\\Потоки\\Потоки.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kotam\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
